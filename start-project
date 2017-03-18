@@ -1,0 +1,24 @@
+Step 1. Start a new repository in Github. Don't try any of the choices-just
+keep it simple.
+
+Step 2. With git bash go to the folder in which you wish to include your new
+project-repo eg cd programming(folder's name). There type:
+git init js - this is going to create a new repo called js which is a subfolder
+of programming.
+
+Step 3. Type: cd js
+              atom readme.txt
+So you've gone to folder-repo js and created a new file inside called readme.
+
+Step 4. Make your changes to the file.
+
+Step 5. git add readme.txt
+
+Step 6. git commit
+
+Step 7. Using the url from github for your repo type:
+git remote add origin https://github.com/x8anos/js.git
+
+Step 8. git push origin master
+
+You 're done!!!!
