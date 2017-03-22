@@ -1,0 +1,2 @@
+* If you checked out a previous commit and want to return, just enter
+  git checkout master.
