@@ -12,7 +12,7 @@ So you've gone to folder-repo js and created a new file inside called readme.
 
 Step 4. Make your changes to the file.
 
-Step 5. git add readme.txt
+Step 5. git add readme.txt/or rm instead of add if you want to remove a file
 
 Step 6. git commit
 
